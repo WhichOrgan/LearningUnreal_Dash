@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+LearningUnreal_Dash/Content/StarterContent/
+LearningUnreal_Dash/Content/ThirdPerson/Meshes/
+LearningUnreal_Dash/Intermediate/
